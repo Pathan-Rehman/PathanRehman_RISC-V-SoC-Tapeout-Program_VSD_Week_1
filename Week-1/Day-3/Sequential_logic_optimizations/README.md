@@ -5,7 +5,7 @@ This lab introduces **sequential optimization techniques** using a set of exampl
 In this lab, you will:
 - Inspect Verilog designs and identify their sequential behavior.
 - Simulate the designs with testbenches and examine the resulting waveforms.
-- Synthesize the circuits using USYS, observe mapping to standard cells, and understand the optimization decisions.
+- Synthesize the circuits using yosys, observe mapping to standard cells, and understand the optimization decisions.
 - Analyze the impact of reset/set polarities and constant assignments on flip-flop retention and removal.
 - As exercises, extend your understanding to similar designs (`dff_const4`, `dff_const5`).
 
