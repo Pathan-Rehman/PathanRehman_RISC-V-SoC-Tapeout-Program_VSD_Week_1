@@ -1,3 +1,19 @@
+# My Profiles
+
+<div align="center">
+
+<a href="https://www.electronics-ed.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-Electronics--ed-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" style="vertical-align:middle;margin-right:10px;"/>
+</a>
+<a href="https://www.linkedin.com/in/p-r-a-k/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-PRAK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle;margin-right:10px;"/>
+</a>
+<a href="https://www.youtube.com/@electronics-ed" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-Electronics--ed-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="vertical-align:middle;"/>
+</a>
+
+</div>
+
 # Week 1 Overview - VSD RISC-V SoC Tapeout Program
 
 Welcome to the summary of Week 1 labs! This week focused on foundational concepts and practical exercises in Verilog RTL design and synthesis. Below are the key topics and tasks completed each day:
