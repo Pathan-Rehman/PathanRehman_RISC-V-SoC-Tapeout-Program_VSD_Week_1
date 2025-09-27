@@ -177,7 +177,6 @@ This lab demonstrates how to elegantly design and simulate parameterizable hardw
        assign sum[7:0] = int_sum;
        assign sum[8] = int_co[7];
        ```
-     ![PLACEHOLDER: screenshot/terminal-output/schematic]
 
 3. **Simulate RCA**
    - Make sure to include both full adder and RCA files at simulation:
